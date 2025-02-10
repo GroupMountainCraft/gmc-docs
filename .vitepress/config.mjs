@@ -46,7 +46,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/xuezha-w' }
+      { icon: 'github', link: 'https://github.com/GroupMountainCraft/gmc-docs' }
     ]
   }
 })
