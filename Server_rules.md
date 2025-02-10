@@ -66,11 +66,11 @@ G-3-3  在大群/游戏内主频吵架（<font style="color:#1DC0C9;">及时听�
 
 G-3-4  私自拉取非服务器官方提供的QQ机器人
 
-G-3-5  <font style="color:#262626;">发布带有指代、隐晦含义等具有侮辱性的动图、视频、截图、文字、指代、生物命名、建筑等</font>
+G-3-5  发布带有指代、隐晦含义等具有侮辱性的动图、视频、截图、文字、指代、生物命名、建筑等
 
-<font style="color:#262626;">G-3-6  不服从管理安排/管教/警告（辱骂管理可参考G-2-3）</font>
+G-3-6  不服从管理安排/管教/警告（辱骂管理可参考G-2-3）
 
-<font style="color:#262626;">G-3-7  群内发送</font><font style="color:#601BDE;">无意义图片/表情包及其他倒垃圾行为</font>
+G-3-7  群内发送无意义图片/表情包及其他倒垃圾行为
 
 
 
@@ -181,7 +181,7 @@ F-7  公会表现（成员活跃度、对服务器贡献度、建筑建设程度
 ##### <font style="color:#4861E0;">本条目按A编号(Administrator Rules)</font>
 <font style="color:#601BDE;">管理按GM,SOM,HM分组</font>
 
-### <font style="color:#000000;">一.管理基本约束</font>
+### 一.管理基本约束
 A-1-1  管理组管理员应听从 [_GMC服务器服主_](#附加信息)管理安排，绝对服从服主的调动，思想上统一
 
 A-1-2  禁止管理组管理员<font style="color:#5C8D07;">开启创造、私自回档、包庇偏袒玩家、未经允许给予玩家物品</font>行为，<font style="color:#df2a3f;">一旦发现永久封禁           </font>（<font style="color:#601BDE;">本条目不适用于</font><font style="color:#df2a3f;"> </font>[_GMC服务器服主_](#附加信息)）
@@ -253,16 +253,16 @@ A-4-3  对违反服规的玩家可以<font style="color:#601BDE;">予以警告</
 + <font style="background-color:#FCE75A;">Mochizuki521  望月(1969203680)</font>
 + <font style="background-color:#FCE75A;">xiaofei7472     小肥(2809602540)</font>
 + MCDENDAI  等待 (3115839165)  
-+ <font style="color:rgb(0, 0, 0);">GungnirTH75    阿妖(737529991)</font>
++ GungnirTH75    阿妖(737529991)
 + PigeonLing  祈泠泉(3448793854)
 + xuezhayouxiu  学渣（3249659057）
 
 ### 2.社区管理（Social Master,SOM)
 + <font style="background-color:#FCE75A;">Euphoria2233    小橙(3226311939)</font>
 + <font style="background-color:#FCE75A;">JiangaLing_2001    江灵(2046786080)</font>
-+ <font style="color:rgb(0, 0, 0);background-color:#FCE75A;">mydqc     清晨(1732835072)</font>
++ <font style="background-color:#FCE75A;">mydqc     清晨(1732835072)</font>
 + <font style="background-color:#FCE75A;">RSSMCRedRockRT     RSS(2997264739)</font>
-+ <font style="color:rgb(0, 0, 0);background-color:#FCE75A;">SaintBergiru     圣柏(1846268934)</font>
++ <font style="background-color:#FCE75A;">SaintBergiru     圣柏(1846268934)</font>
 + <font style="background-color:#FCE75A;">Toby1103     热情奔放大香蕉（452476291）</font>
 + BeamyTrout866  老Be登(33682160)
 + lg2436  龙贵  (2719036041)
@@ -270,7 +270,7 @@ A-4-3  对违反服规的玩家可以<font style="color:#601BDE;">予以警告</
 + QU HAI7824  躯骸  (877302647)
 
 ### 3.协管（Helper Master,HM)
-待补充
++ 待补充
 
 
-> <font style="color:#117CEE;">最后编辑于2024.7.2 Zhongzi8972</font>
+> <font style="color:#117CEE;">最后编辑于2024/7/2 Zhongzi8972</font>
